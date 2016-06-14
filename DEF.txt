@@ -1,0 +1,22 @@
+D =
+x x x
+x     x
+x       x
+x       x
+x       x
+x     x 
+x x x
+
+E =
+x x x
+x
+x x
+x
+x x x
+
+F =
+x x x
+x 
+x x
+x
+x  
